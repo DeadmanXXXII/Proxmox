@@ -1,6 +1,6 @@
 # Proxmox
 
-Certainly! Here's an extensive list of Proxmox Virtual Environment (PVE) CLI commands and configurations, categorized for ease of use.
+Here's an extensive list of Proxmox Virtual Environment (PVE) CLI commands and configurations, categorized for ease of use.
 
 ### **Proxmox CLI Commands**
 
